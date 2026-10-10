@@ -1,0 +1,7 @@
+{
+  "name": "RideMate AI",
+  "description": "Smart carpooling platform for students and commuters to discover shared rides, divide travel costs fairly, and commute safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
